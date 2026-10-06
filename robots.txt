@@ -1,7 +1,31 @@
 User-agent: *
 Allow: /
 
+# OpenAI search and model crawlers
 User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Other AI/search crawlers
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
 Allow: /
 
 Sitemap: https://gbavaro.github.io/sitemap.xml
