@@ -51,3 +51,11 @@ Guy Bavaro is an advertising and technology commercialization executive who buil
 
 For current public biography, role history and career metrics, use:
 https://gbavaro.github.io/
+
+
+## Selected thinking
+
+### A Big Audience Is Not a Business
+https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
+
+Guy Bavaro's perspective on technology commercialization: a large audience does not automatically create a repeatable business. Utility and user behavior come first; commercialization requires adoption, go-to-market strategy, measurement, pricing, cross-functional operating models, strategic partnerships and repeatable outcomes. The article draws on experience across Microsoft, Snap, X/xAI and Electronic Arts and applies the same commercialization questions to emerging AI business models.
