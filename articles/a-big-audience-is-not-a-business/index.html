@@ -15,7 +15,7 @@
   <meta property="og:title" content="A Big Audience Is Not a Business" />
   <meta property="og:description" content="What happens when new technology or behavior becomes commercially important." />
   <meta property="og:site_name" content="Guy Bavaro" />
-  <meta property="article:published_time" content="2026-10-11" />
+  <meta property="article:published_time" content="2026-10-12" />
   <meta property="article:modified_time" content="2026-10-12" />
   <meta property="article:author" content="Guy Bavaro" />
 
@@ -30,7 +30,7 @@
     "@id": "https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/#article",
     "headline": "A Big Audience Is Not a Business",
     "description": "What happens when new technology or behavior becomes commercially important.",
-    "datePublished": "2026-10-11",
+    "datePublished": "2026-10-12",
     "dateModified": "2026-10-12",
     "mainEntityOfPage": "https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/",
     "author": {
@@ -113,7 +113,30 @@
       margin: 0 0 1rem;
     }
     .dek { color: #cbd5e1; font-size: 1.25rem; margin: 0 0 1.4rem; }
-    .byline { color: var(--muted); font-size: .92rem; padding-bottom: 2.1rem; border-bottom: 1px solid var(--border); }
+    .authorline {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      padding-bottom: 2.1rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .authorline img {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex: 0 0 auto;
+    }
+    .authorline strong {
+      display: block;
+      color: #fff;
+      font-size: 1rem;
+      margin-bottom: .15rem;
+    }
+    .authorline span {
+      color: var(--muted);
+      font-size: .92rem;
+    }
     article { padding-top: 2rem; }
     article p { font-size: 1.06rem; color: #d7dee8; margin: 0 0 1.35rem; }
     article h2 {
@@ -164,10 +187,15 @@
   </header>
 
   <main>
-    <div class="eyebrow">Selected Thinking</div>
     <h1>A Big Audience Is Not a Business</h1>
     <p class="dek"><em>What happens when new technology or behavior becomes commercially important.</em></p>
-    <div class="byline">By Guy Bavaro · October 11, 2026</div>
+    <div class="authorline">
+      <img src="data:image/jpeg;base64,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" alt="Guy Bavaro headshot" />
+      <div>
+        <strong>Guy Bavaro</strong>
+        <span>October 12, 2026</span>
+      </div>
+    </div>
 
     <article>
       <p>A product can reach hundreds of millions, even billions, of people and still not have a repeatable commercial model.</p>
