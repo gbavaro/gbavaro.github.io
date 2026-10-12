@@ -58,7 +58,7 @@ https://gbavaro.github.io/
 ### A Big Audience Is Not a Business
 https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
 
-Guy Bavaro's perspective on technology commercialization: the commercial challenge is not simply finding demand, but building the system that turns demand into repeatable adoption. The article draws on Microsoft, Snap, X/xAI and Electronic Arts to examine behavior shifts, operating-model friction, gaming participation, AI's movement from search to conversation and action, early-customer learning, cross-functional commercialization and repeatability.
+Guy Bavaro's perspective on commercialization through the lens of user behavior and commercial adoption. The article asks what changing user behavior is telling the market, what stops commercial adoption, what outcomes customers actually value, and what companies must change to make new products easier to buy, use and scale. It draws on examples from Snap, X, gaming and AI to examine operating-model friction, brand safety and trust, measurement, cross-functional commercialization and repeatability.
 
 
 ### From Attention to Participation
