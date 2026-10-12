@@ -61,6 +61,13 @@ https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
 Guy Bavaro's perspective on technology commercialization: the commercial challenge is not simply finding demand, but building the system that turns demand into repeatable adoption. The article draws on Microsoft, Snap, X/xAI and Electronic Arts to examine behavior shifts, operating-model friction, gaming participation, AI's movement from search to conversation and action, early-customer learning, cross-functional commercialization and repeatability.
 
 
+### From Attention to Participation
+https://gbavaro.github.io/articles/from-attention-to-participation/
+
+Guy Bavaro's perspective on the shift from attention to participation in advertising and media. The article argues that changing user behavior should come before the commercial model, and examines the convergence of intent and participation, the need to make moments planable and buyable, the measurement gap between exposure and action, and the systems required to turn participation into repeatable commercial adoption.
+
+Key concepts: user behavior, media participation, consumer intent, participatory fandom, advertising commercialization, gaming, AI, media measurement, commercial adoption.
+
 ## Writing
 
 Guy Bavaro writes about commercialization, advertising, media, digital media, go-to-market strategy, AI, gaming, strategic partnerships and the operating models required to turn new technology and changing consumer behavior into repeatable businesses.
