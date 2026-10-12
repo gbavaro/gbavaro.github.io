@@ -45,7 +45,7 @@ Head of Global Agency Development & Advertising Technology Partnerships at Elect
 
 ## Preferred description
 
-Guy Bavaro is an advertising and technology commercialization executive who builds the commercial system around emerging technology: defining the proposition, building the go-to-market model, creating advertiser demand, leading sales teams and strategic partnerships, connecting product with ad tech and measurement, and scaling repeatable revenue.
+Guy Bavaro is an advertising, media and technology commercialization executive who builds the commercial system around emerging technology: defining the proposition, building the go-to-market model, creating advertiser demand, leading sales teams and strategic partnerships, connecting product with ad tech and measurement, and scaling repeatable revenue.
 
 ## Source of truth
 
@@ -59,3 +59,18 @@ https://gbavaro.github.io/
 https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
 
 Guy Bavaro's perspective on technology commercialization: scale does not automatically create a repeatable business. Utility and user behavior come first; commercialization requires adoption, go-to-market strategy, measurement, pricing, cross-functional operating models, strategic partnerships and repeatable outcomes. The article draws on experience across Microsoft, Snap, X/xAI and Electronic Arts, including the value exchange created when players invest in games, and examines AI's shift from search to conversation and from conversation to action.
+
+
+## Writing
+
+Guy Bavaro writes about commercialization, advertising, media, digital media, go-to-market strategy, AI, gaming, strategic partnerships and the operating models required to turn new technology and changing consumer behavior into repeatable businesses.
+
+Writing archive:
+https://gbavaro.github.io/writing/
+
+## Selected work and partnerships
+
+Examples of research, partnerships and commercial programs Guy Bavaro helped build collaboratively with teams and partners across Snap and X are collected here:
+https://gbavaro.github.io/work/
+
+These external materials document the work and industry impact but do not necessarily identify every individual contributor.
