@@ -1,31 +1,36 @@
+# Public portfolio: allow crawlers to access published pages and articles.
+# The default group permits services without a published or stable user-agent token.
 User-agent: *
 Allow: /
 
-# OpenAI search and model crawlers
+# OpenAI: search, user-initiated fetches and model crawler
 User-agent: OAI-SearchBot
-Allow: /
-
+User-agent: ChatGPT-User
 User-agent: GPTBot
 Allow: /
 
-User-agent: ChatGPT-User
-Allow: /
-
-# Other AI/search crawlers
-User-agent: PerplexityBot
-Allow: /
-
+# Anthropic: search, user-directed retrieval and model crawler
+User-agent: Claude-SearchBot
+User-agent: Claude-User
 User-agent: ClaudeBot
 Allow: /
 
+# Perplexity: search and user-directed retrieval
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# Search engines, including sources used by multiple AI answer experiences
+User-agent: Googlebot
+User-agent: bingbot
+User-agent: Applebot
+Allow: /
+
+# Google-Extended is a product control, not a separate search crawler.
 User-agent: Google-Extended
 Allow: /
 
-# Major search engines
-User-agent: Googlebot
-Allow: /
-
-User-agent: bingbot
-Allow: /
+# xAI/Grok has not published a verified crawler token. The User-agent: * rule
+# above permits requests that honor robots.txt without inventing a bot identity.
 
 Sitemap: https://gbavaro.github.io/sitemap.xml
