@@ -9,6 +9,7 @@
   <meta name="author" content="Guy Bavaro" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://gbavaro.github.io/writing/" />
+  <link rel="alternate" type="text/plain" title="AI-readable site summary" href="https://gbavaro.github.io/llms.txt" />
   <link rel="me" href="https://www.linkedin.com/in/guybavaro" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://gbavaro.github.io/writing/" />
@@ -17,18 +18,53 @@
   <meta property="og:site_name" content="Guy Bavaro" />
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"CollectionPage",
-    "@id":"https://gbavaro.github.io/writing/#page",
-    "url":"https://gbavaro.github.io/writing/",
-    "name":"Writing | Guy Bavaro",
-    "description":"Ideas on commercialization, advertising, media, leadership and emerging technology.",
-    "dateModified":"2026-10-12",
-    "author":{"@id":"https://gbavaro.github.io/#guy-bavaro"},
-    "hasPart":[
-      {"@id":"https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/#article"},
-      {"@id":"https://gbavaro.github.io/articles/from-attention-to-participation/#article"},
-      {"@id":"https://gbavaro.github.io/articles/resilience-in-action/#article"}
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "https://gbavaro.github.io/writing/#page",
+        "url": "https://gbavaro.github.io/writing/",
+        "name": "Writing | Guy Bavaro",
+        "description": "Ideas on commercialization, advertising, media, leadership and emerging technology.",
+        "dateModified": "2026-10-12",
+        "author": {
+          "@id": "https://gbavaro.github.io/#guy-bavaro"
+        },
+        "hasPart": [
+          {
+            "@id": "https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/#article"
+          },
+          {
+            "@id": "https://gbavaro.github.io/articles/from-attention-to-participation/#article"
+          },
+          {
+            "@id": "https://gbavaro.github.io/articles/resilience-in-action/#article"
+          }
+        ],
+        "inLanguage": "en-US",
+        "isPartOf": {
+          "@id": "https://gbavaro.github.io/#website"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gbavaro.github.io/writing/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gbavaro.github.io/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Writing",
+            "item": "https://gbavaro.github.io/writing/"
+          }
+        ]
+      }
     ]
   }
   </script>
