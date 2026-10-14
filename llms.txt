@@ -12,6 +12,7 @@
 ## Primary pages
 
 - [Official profile](https://gbavaro.github.io/): Professional biography, current role, commercial approach and career highlights.
+- [Executive profile](https://gbavaro.github.io/executive/): Recruiter- and hiring-leader-facing commercial leadership scope, published outcomes and contact options.
 - [Writing archive](https://gbavaro.github.io/writing/): First-person writing on advertising commercialization, media, technology, gaming and leadership.
 - [Selected work and partnerships](https://gbavaro.github.io/work/): Examples of collaborative commercial projects with links to external coverage.
 
