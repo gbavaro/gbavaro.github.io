@@ -13,6 +13,7 @@
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href="https://gbavaro.github.io/" />
+  <link rel="alternate" type="text/plain" title="AI-readable site summary" href="https://gbavaro.github.io/llms.txt" />
   <link rel="sitemap" type="application/xml" href="https://gbavaro.github.io/sitemap.xml" />
   <link rel="me" href="https://www.linkedin.com/in/guybavaro" />
   <link rel="me" href="https://gbavaro.substack.com/" />
@@ -30,31 +31,50 @@
 
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@graph":[
+    "@context": "https://schema.org",
+    "@graph": [
       {
-        "@type":"ProfilePage",
-        "@id":"https://gbavaro.github.io/#profilepage",
-        "url":"https://gbavaro.github.io/",
-        "name":"Guy Bavaro | Advertising & Technology Commercialization Executive",
-        "dateModified":"2026-10-12",
-        "mainEntity":{"@id":"https://gbavaro.github.io/#guy-bavaro"}
+        "@type": "WebSite",
+        "@id": "https://gbavaro.github.io/#website",
+        "url": "https://gbavaro.github.io/",
+        "name": "Guy Bavaro",
+        "inLanguage": "en-US",
+        "publisher": {
+          "@id": "https://gbavaro.github.io/#guy-bavaro"
+        }
       },
       {
-        "@type":"Person",
-        "@id":"https://gbavaro.github.io/#guy-bavaro",
-        "name":"Gaetano Bavaro",
-        "alternateName":"Guy Bavaro",
-        "url":"https://gbavaro.github.io/",
-        "description":"Advertising and technology commercialization executive with 25+ years building and scaling advertising and media businesses around shifts in consumer behavior and technology.",
-        "jobTitle":"Head of Global Agency Development & Advertising Technology Partnerships",
-        "worksFor":{"@type":"Organization","name":"Electronic Arts"},
-        "sameAs":[
+        "@type": "ProfilePage",
+        "@id": "https://gbavaro.github.io/#profilepage",
+        "url": "https://gbavaro.github.io/",
+        "name": "Guy Bavaro | Advertising & Technology Commercialization Executive",
+        "dateModified": "2026-10-12",
+        "mainEntity": {
+          "@id": "https://gbavaro.github.io/#guy-bavaro"
+        },
+        "inLanguage": "en-US",
+        "isPartOf": {
+          "@id": "https://gbavaro.github.io/#website"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://gbavaro.github.io/#guy-bavaro",
+        "name": "Gaetano Bavaro",
+        "alternateName": "Guy Bavaro",
+        "url": "https://gbavaro.github.io/",
+        "description": "Advertising and technology commercialization executive with 25+ years building and scaling advertising and media businesses around shifts in consumer behavior and technology.",
+        "jobTitle": "Head of Global Agency Development & Advertising Technology Partnerships",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Electronic Arts"
+        },
+        "sameAs": [
           "https://www.linkedin.com/in/guybavaro",
           "https://github.com/gbavaro",
           "https://gbavaro.substack.com"
         ],
-        "knowsAbout":[
+        "knowsAbout": [
           "Advertising Commercialization",
           "Media and Digital Media",
           "Advertising Sales",
@@ -69,7 +89,10 @@
           "Data and Measurement",
           "AI Commercialization",
           "Gaming Advertising"
-        ]
+        ],
+        "mainEntityOfPage": {
+          "@id": "https://gbavaro.github.io/#profilepage"
+        }
       }
     ]
   }
