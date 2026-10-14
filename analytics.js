@@ -31,6 +31,7 @@
     if (url.protocol === "mailto:") destination = "email";
     else if (url.hostname === "linkedin.com" || url.hostname === "www.linkedin.com") destination = "linkedin";
     else if (url.hostname === "gbavaro.substack.com") destination = "substack";
+    else if (url.origin === window.location.origin && url.pathname.indexOf("/executive/") === 0) destination = "executive";
     else if (url.origin === window.location.origin && url.pathname.indexOf("/writing/") === 0) destination = "writing";
     else if (url.origin === window.location.origin && url.pathname.indexOf("/articles/") === 0) destination = "article";
 
