@@ -1,9 +1,9 @@
 /* Site-wide Google Analytics 4 configuration.
-   Set MEASUREMENT_ID to the website data stream's G-... ID to activate.
-   No analytics request is made while it is empty. */
+   Uses the site owner-provided GA4 web data stream Measurement ID.
+   This shared loader is included once by all published HTML pages. */
 (function () {
   "use strict";
-  var MEASUREMENT_ID = "";
+  var MEASUREMENT_ID = "G-SK548F6DDY";
 
   if (!/^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID)) return;
 
