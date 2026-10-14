@@ -2,12 +2,12 @@
 
 Last reviewed: 2026-10-14
 
-The public website is https://gbavaro.github.io/ and this repository currently contains six canonical, indexable HTML pages. Keep the GitHub Pages URL as canonical unless a custom domain actually resolves, serves the complete site, and has working redirects. Do not change canonical links merely because a domain has been purchased.
+The public website is https://gbavaro.github.io/ and this repository currently contains seven canonical, indexable HTML pages. Keep the GitHub Pages URL as canonical unless a custom domain actually resolves, serves the complete site, and has working redirects. Do not change canonical links merely because a domain has been purchased.
 
 ## What is already in the repository
 
 - Root `robots.txt`: permits general crawlers and names the officially documented OpenAI, Anthropic and Perplexity bots; it references the sitemap. Some user-triggered retrieval agents do not necessarily follow robots.txt. xAI has not published a confirmed Grok crawler token; general crawlers are allowed by `User-agent: *`.
-- Root `sitemap.xml`: lists all six canonical HTML URLs with latest technical update date.
+- Root `sitemap.xml`: lists all seven canonical HTML URLs with latest technical update date.
 - Root `llms.txt` and `llms-full.txt`: optional plain-text discovery aids that point back to the original published pages. `llms.txt` is a proposal, not an adopted universal indexing or ranking standard.
 - All pages: index/follow, canonical URLs, plain HTML links, descriptive titles, descriptions and JSON-LD structured data. The homepage contains linked WebSite, ProfilePage and Person objects. Other pages contain CollectionPage or Article plus BreadcrumbList objects. Article author links refer to the same homepage Person ID.
 - Homepage: contains an existing Google Search Console verification meta tag. This does not prove that a particular Google account has successfully verified the site.
@@ -43,4 +43,4 @@ The public website is https://gbavaro.github.io/ and this repository currently c
 - Bing Webmaster Tools: https://www.bing.com/webmasters/
 - llms.txt proposal: https://llmstxt.org/
 
-The checked GitHub source passed internal structural checks on 2026-10-14. Public deployment HTTP status, Search Console ownership, live indexing and crawler logs require separate verification.
+The new executive page was added to the sitemap and AI-readable discovery files on 2026-10-14. Validate its live deployment, Google Rich Results status and Search Console indexing separately.
