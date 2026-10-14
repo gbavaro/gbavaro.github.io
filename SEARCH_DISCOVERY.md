@@ -11,13 +11,13 @@ The public website is https://gbavaro.github.io/ and this repository currently c
 - Root `llms.txt` and `llms-full.txt`: optional plain-text discovery aids that point back to the original published pages. `llms.txt` is a proposal, not an adopted universal indexing or ranking standard.
 - All pages: index/follow, canonical URLs, plain HTML links, descriptive titles, descriptions and JSON-LD structured data. The homepage contains linked WebSite, ProfilePage and Person objects. Other pages contain CollectionPage or Article plus BreadcrumbList objects. Article author links refer to the same homepage Person ID.
 - Homepage: contains an existing Google Search Console verification meta tag. This does not prove that a particular Google account has successfully verified the site.
-- `analytics.js`: loaded site-wide but inactive until its own valid `G-` measurement ID is supplied. Never fabricate a measurement ID.
+- `analytics.js`: loaded site-wide and configured with the owner-provided GA4 Measurement ID `G-SK548F6DDY` on 2026-10-14; verify live collection in GA4 Realtime.
 
 ## Owner account actions
 
 1. Open https://search.google.com/search-console and add or select URL-prefix property `https://gbavaro.github.io/`. Verify it using the already-present HTML meta tag if it has not been verified yet. Under **Sitemaps**, submit `https://gbavaro.github.io/sitemap.xml`. Use URL Inspection on the homepage and newly published articles, check live crawl and request indexing when appropriate.
 2. Open https://www.bing.com/webmasters/. Import the verified Google Search Console property, or add and verify it directly. Submit the same sitemap and review the URL Inspection / indexing reports. Bing contributes to multiple search and AI discovery experiences.
-3. Create or select a Google Analytics 4 Web data stream at https://analytics.google.com/. Supply the real `G-` measurement ID for `analytics.js`, review applicable privacy and consent obligations, and then confirm a visit in Realtime. Historical visits before activation are not recoverable from GA4.
+3. Google Analytics 4 has been configured with the provided Measurement ID. Review applicable privacy and consent obligations and confirm deployment and a visit in https://analytics.google.com/ → Reports → Realtime. Historical visits before activation are not recoverable from GA4.
 4. For future substantive content changes, update the affected page and its actual editorial `dateModified` when appropriate, then the corresponding sitemap `lastmod`. Keep the index and `llms.txt` in sync with new article URLs. Avoid artificially bumping publication dates without editorial changes.
 5. Add a link to the canonical website on LinkedIn, GitHub profile and Substack; genuine relevant external links help discovery and identity matching. Maintain the same name and role across those public profiles.
 6. Optional: implement IndexNow when an owned domain/verified key and publishing workflow are available. Do not submit an invented key or claim IndexNow submission merely from having an XML sitemap.
