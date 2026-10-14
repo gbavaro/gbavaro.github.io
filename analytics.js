@@ -1,0 +1,41 @@
+/* Site-wide Google Analytics 4 configuration.
+   Set MEASUREMENT_ID to the website data stream's G-... ID to activate.
+   No analytics request is made while it is empty. */
+(function () {
+  "use strict";
+  var MEASUREMENT_ID = "";
+
+  if (!/^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID)) return;
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { window.dataLayer.push(arguments); };
+  window.gtag("js", new Date());
+  window.gtag("config", MEASUREMENT_ID);
+
+  var tag = document.createElement("script");
+  tag.async = true;
+  tag.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(MEASUREMENT_ID);
+  document.head.appendChild(tag);
+
+  // Track meaningful site interactions without collecting contact details.
+  document.addEventListener("click", function (event) {
+    var target = event.target;
+    var link = target && target.closest ? target.closest("a[href]") : null;
+    if (!link) return;
+
+    var url;
+    try { url = new URL(link.href, window.location.href); }
+    catch (error) { return; }
+
+    var destination = "";
+    if (url.protocol === "mailto:") destination = "email";
+    else if (url.hostname === "linkedin.com" || url.hostname === "www.linkedin.com") destination = "linkedin";
+    else if (url.hostname === "gbavaro.substack.com") destination = "substack";
+    else if (url.origin === window.location.origin && url.pathname.indexOf("/writing/") === 0) destination = "writing";
+    else if (url.origin === window.location.origin && url.pathname.indexOf("/articles/") === 0) destination = "article";
+
+    if (destination) {
+      window.gtag("event", "portfolio_click", { destination: destination });
+    }
+  }, { passive: true });
+})();
