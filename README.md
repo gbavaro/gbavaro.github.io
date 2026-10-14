@@ -18,3 +18,12 @@ Advertising commercialization · Revenue growth · Go-to-market strategy · Sale
 - ~1,700% advertising revenue growth at Snap
 
 This repository powers the public GitHub Pages site at https://gbavaro.github.io/.
+
+## Site discovery and analytics
+
+- [Search and AI discovery setup](SEARCH_DISCOVERY.md)
+- [Crawler policy](robots.txt) and [XML sitemap](sitemap.xml)
+- [AI-readable site index](llms.txt) and [full public summary](llms-full.txt)
+- [Analytics setup](ANALYTICS_SETUP.md): GA4 is prepared but requires a real measurement ID before collecting visits.
+
+Being crawlable does not guarantee Google indexing or citations in an AI-generated answer.
