@@ -5,6 +5,7 @@ Official website and executive profile for **Gaetano "Guy" Bavaro**.
 Guy is an advertising and technology commercialization executive with 25+ years building and scaling advertising businesses across Yahoo, Microsoft, Snap, X/xAI and Electronic Arts.
 
 - Website: https://gbavaro.github.io/
+- Executive profile: https://gbavaro.github.io/executive/
 - LinkedIn: https://www.linkedin.com/in/guybavaro
 
 ## Focus
