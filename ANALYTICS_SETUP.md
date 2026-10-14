@@ -2,17 +2,14 @@
 
 The site loads `/analytics.js` on all six HTML pages, but analytics is intentionally inactive until a Google Analytics 4 (GA4) Web data stream Measurement ID has been supplied. There is **no historical visitor count** to recover from the previous site.
 
-## Activate Google Analytics 4
+## GA4 activated
 
-1. Go to https://analytics.google.com/ and create or select a GA4 property.
-2. Under **Admin → Data streams**, add a **Web** stream for `https://gbavaro.github.io/` (or select the existing stream).
-3. Copy the **Measurement ID** beginning with `G-`.
-4. Edit the root `analytics.js` file. Change `var MEASUREMENT_ID = "";` to your actual `G-` ID, and commit.
-5. Visit the site and confirm the session in **Reports → Realtime**. Data starts only after a valid ID is configured and tag execution is permitted.
+The owner-provided GA4 Web data stream Measurement ID `G-SK548F6DDY` was configured in root `analytics.js` on 2026-10-14. All six published HTML pages load this same shared file exactly once. Do not also paste a second copy of the Google tag in each page: duplicate initialization may affect measurement.
 
-The script uses the GA4 `gtag.js` endpoint, tracks page views on every HTML page, and emits a privacy-conscious custom event named `portfolio_click` with a `destination` value of `email`, `linkedin`, `substack`, `writing`, or `article`. It does not send the email address as an event parameter.
+Analytics data is only available from successful tag execution after activation. Check deployment by visiting the site and then **Reports → Realtime** in https://analytics.google.com/. A GitHub commit by itself does not prove collection or recover historical visits.
 
-Review applicable privacy disclosures and consent requirements before enabling Analytics, particularly for visitors in jurisdictions requiring consent for nonessential analytics cookies.
+Before running nonessential analytics on visitors, review applicable privacy disclosure and consent requirements.
+
 
 ## Tagged links to paste onto external profiles
 
