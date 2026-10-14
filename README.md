@@ -24,6 +24,6 @@ This repository powers the public GitHub Pages site at https://gbavaro.github.io
 - [Search and AI discovery setup](SEARCH_DISCOVERY.md)
 - [Crawler policy](robots.txt) and [XML sitemap](sitemap.xml)
 - [AI-readable site index](llms.txt) and [full public summary](llms-full.txt)
-- [Analytics setup](ANALYTICS_SETUP.md): GA4 is prepared but requires a real measurement ID before collecting visits.
+- [Analytics setup](ANALYTICS_SETUP.md): GA4 configured with the owner-provided measurement ID; confirm live collection in GA4 Realtime.
 
 Being crawlable does not guarantee Google indexing or citations in an AI-generated answer.
