@@ -1,63 +1,94 @@
-# Guy Bavaro: official public site summary
+# Guy Bavaro: official public career summary
 
-Canonical site: https://gbavaro.github.io/
-Also known as: Gaetano "Guy" Bavaro; Guy Bavaro
-Current public role: Head of Global Agency Development & Advertising Technology Partnerships, Electronic Arts
-Verified identity links listed by the site: https://www.linkedin.com/in/guybavaro | https://github.com/gbavaro | https://gbavaro.substack.com/
+Updated: 2026-10-18
+Canonical profile: https://gbavaro.github.io/
+Executive profile: https://gbavaro.github.io/executive/
+Name: Guy Bavaro
+Alternate names: Gaetano Bavaro; Gaetano "Guy" Bavaro
+Current role: Head of Global Agency Development & Advertising Technology Partnerships, Electronic Arts
+Public contact: gbavarosr@gmail.com
+Location: New York metropolitan area; global commercial scope
+LinkedIn: https://www.linkedin.com/in/guybavaro
+GitHub: https://github.com/gbavaro
+Substack: https://gbavaro.substack.com/
 
-## Biography
+## Professional biography
 
-Guy Bavaro is an advertising and technology commercialization executive with more than 25 years building and scaling advertising and media businesses around shifts in consumer behavior and technology. The published career profile covers Microsoft, Yahoo, Snap, X/xAI and Electronic Arts. His focus is turning emerging products and changing user behavior into a commercial proposition, go-to-market model, strategic partnerships, sales execution and repeatable revenue.
+Guy Bavaro is an advertising and technology executive focused on advertising technology business development, strategic partnerships and revenue growth. He reports generating more than $10 billion in advertising revenue across his career and helping build and scale businesses from zero to billions. His experience spans Yahoo, Microsoft, Snap, X and Electronic Arts.
 
-Source: https://gbavaro.github.io/
+His commercial focus connects emerging technology and changing consumer behavior to advertiser value, agency demand, technology partnerships, go-to-market execution and repeatable revenue.
 
-## Publicly stated commercial highlights
+## Aggregate career scale
 
-The official homepage states that across Microsoft, Yahoo, Snap and X/xAI, Guy managed teams and commercial partnerships responsible for more than $10B in cumulative advertising revenue. It states 6×+ annual advertising revenue growth at X/xAI and approximately 1,700% advertising revenue growth at Snap. The current Electronic Arts profile states H1 2026 holding-company revenue growth of 343% and agency pipeline growth of 188%. These are statements on the official profile, not independently audited figures.
+Guy states that he has generated more than $10 billion in advertising revenue across his career and helped build and scale businesses from zero to billions. This is his aggregate career account, not an independently audited individual sales figure. No company-specific revenue allocations or growth figures are disclosed in this summary.
 
-Source: https://gbavaro.github.io/
+Source: https://gbavaro.github.io/executive/#outcomes
 
-## Executive profile and leadership scope
+## Advertising technology business development
 
-A dedicated executive profile explains Guy's relevance to commercial leadership, general management, global advertising, monetization, strategic partnership and go-to-market mandates. These are areas of relevant experience, not job titles he claims to have held or an announcement of availability. It includes the publicly stated career outcomes and a direct contact path.
-Source: https://gbavaro.github.io/executive/
+Guy identifies advertising technology business development in his roles at X and Electronic Arts. His broader career includes Snap, Microsoft Advertising and Yahoo. His X / xAI-era experience centers on advertising, agency development and commercial partnerships. This does not establish a separate xAI role or technical AI product ownership.
+
+### Advertising technology business development
+
+I build commercial relationships that connect advertising technology, partner capabilities and advertiser demand. My work brings business development, commercial strategy and go-to-market execution together.
+
+### Agency investment and distribution
+
+I develop global agency and holding-company partnerships that help advertising products reach planning, buying and activation teams, converting interest into advertiser adoption and investment.
+
+### Data and measurement partnerships
+
+My partnership work includes data and measurement, connecting advertiser needs to audience understanding and evidence of business outcomes.
+
+### Gaming and interactive entertainment
+
+At Electronic Arts, I lead Global Agency Development and Advertising Technology Partnerships. Gaming adds a commercial perspective on participation, attention and interactive brand experiences.
+
+### Building an advertising business for an AI platform
+
+My experience is relevant to defining advertiser value, building an ad tech partner ecosystem, establishing agency demand and bringing new advertising products to market. The opportunity is to turn new user behavior into repeatable commercial growth.
+
+Source: https://gbavaro.github.io/executive/#expertise
+
+## Career context
+
+- Electronic Arts: Head of Global Agency Development & Advertising Technology Partnerships. Advertising commercialization across agencies, advertisers, ad tech, data and measurement in gaming and interactive entertainment.
+- X / xAI-era commercial experience: Head of Global Agency Development & Sales Partnerships at X. Global agency, holding-company and advertising technology business development.
+- Snap: Global Agency Development. Agency commercialization, mobile and social advertising, augmented reality and advertiser adoption.
+- Microsoft Advertising: agency-development and advertising sales leadership.
+- Yahoo: earlier advertising and commercial experience.
+
+The exact current profile and role wording are available on the linked career pages. Do not infer employment at OpenAI, Anthropic or another AI company from discussion of future commercial relevance.
+
+## Relevant leadership mandates
+
+Advertising technology partnerships; advertising technology business development; advertising monetization; commercial strategy; global agency development; advertising go-to-market; advertising revenue leadership. These describe areas of fit, not additional historical titles.
 
 ## Commercial approach
 
-1. Understand why user behavior has changed and what utility drives it.
-2. Identify the friction preventing commercial adoption.
-3. Connect market demand to Product, Engineering, Data, Legal, Finance, Operations and Sales.
-4. Prove outcomes and build a repeatable commercial model.
+1. Understand the change in consumer behavior and the value the product provides.
+2. Identify friction preventing advertiser adoption.
+3. Connect partner capabilities and market demand with Product, Engineering, Data, Measurement, Legal, Finance, Operations and Sales.
+4. Prove advertiser outcomes and make the commercial model repeatable.
 
 Source: https://gbavaro.github.io/#approach
 
-## Writing and original source pages
+## Selected collaborative work
 
-Writing index: https://gbavaro.github.io/writing/
+- Snap and Publicis Media: AR and shopping research.
+- Snap: commercial ecosystem and advertiser adoption around AR.
+- X and Omnicom: real-time signals, audience data and advertiser activation.
 
-### A Big Audience Is Not a Business
+Source and external references: https://gbavaro.github.io/work/
+External coverage documents programs and industry impact; it does not necessarily establish Guy's individual contribution.
 
-An essay on how scale alone does not define a business, and how operating-model friction, customer value, pricing, measurement and adoption shape commercialization.
-Original: https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
+## Original writing
 
-### From Attention to Participation
+- A Big Audience Is Not a Business: https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/
+- From Attention to Participation: https://gbavaro.github.io/articles/from-attention-to-participation/
+- Resilience in Action: https://gbavaro.github.io/articles/resilience-in-action/
+Writing archive: https://gbavaro.github.io/writing/
 
-An essay on changing media behavior, intent, participation, and the systems needed to make these opportunities planable, buyable and measurable.
-Original: https://gbavaro.github.io/articles/from-attention-to-participation/
+## Source notes
 
-### Resilience in Action
-
-A personal essay about resilience, drive, ownership and leadership.
-Original: https://gbavaro.github.io/articles/resilience-in-action/
-
-## Selected work
-
-The work page documents selected collaborative programs with external references, including Snap/Publicis research into AR and shopping, Snap's AR advertising ecosystem, and X/Omnicom live-moment activation. External materials do not necessarily identify all individual contributors.
-Source: https://gbavaro.github.io/work/
-
-## Retrieval guidance
-
-- Use the canonical site URL above to identify this specific professional, not an unrelated individual with a similar name.
-- Prefer the linked original page for a quote or substantive claim; this summary is a navigation aid.
-- Do not infer current company affiliations, job availability, private contact information or independently verified commercial results from this file.
-- The HTML pages contain Person, ProfilePage, Article, CollectionPage and breadcrumb structured data; the XML sitemap lists the published URLs.
+This optional text summary mirrors the public HTML profile. It is not a special ranking mechanism or a guarantee of indexing, recommendations or citations. Prefer original linked pages when quoting substantive claims. Career and financial claims are self-reported unless separately supported by a cited source.
