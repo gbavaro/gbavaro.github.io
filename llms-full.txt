@@ -1,6 +1,6 @@
 # Guy Bavaro: official public career summary
 
-Updated: 2026-10-18
+Updated: 2026-10-19
 Canonical profile: https://gbavaro.github.io/
 Executive profile: https://gbavaro.github.io/executive/
 Name: Guy Bavaro
@@ -14,7 +14,7 @@ Substack: https://gbavaro.substack.com/
 
 ## Professional biography
 
-Guy Bavaro is an advertising and technology executive focused on advertising technology business development, strategic partnerships and revenue growth. He reports generating more than $10 billion in advertising revenue across his career and helping build and scale businesses from zero to billions. His experience spans Yahoo, Microsoft, Snap, X and Electronic Arts.
+Guy Bavaro is an advertising revenue and technology partnerships executive who builds and scales advertising businesses for technology platforms. His experience spans Yahoo, Microsoft, Snap, X and Electronic Arts, with leadership in commercial strategy, advertising monetization, advertising technology business development, global agency development, and data and measurement partnerships. He reports generating more than $10 billion in advertising revenue across his career. Today he leads Global Agency Development and Advertising Technology Partnerships at Electronic Arts.
 
 His commercial focus connects emerging technology and changing consumer behavior to advertiser value, agency demand, technology partnerships, go-to-market execution and repeatable revenue.
 
@@ -44,9 +44,9 @@ My partnership work includes data and measurement, connecting advertiser needs t
 
 At Electronic Arts, I lead Global Agency Development and Advertising Technology Partnerships. Gaming adds a commercial perspective on participation, attention and interactive brand experiences.
 
-### Building an advertising business for an AI platform
+### Advertising revenue and technology partnerships for AI platforms
 
-My experience is relevant to defining advertiser value, building an ad tech partner ecosystem, establishing agency demand and bringing new advertising products to market. The opportunity is to turn new user behavior into repeatable commercial growth.
+For AI platforms developing advertising businesses, I bring experience establishing advertiser demand, building technology partnerships, and scaling commercial adoption. For AI companies serving the advertising industry, I bring relationships and commercial experience across its agency and technology ecosystem.
 
 Source: https://gbavaro.github.io/executive/#expertise
 
