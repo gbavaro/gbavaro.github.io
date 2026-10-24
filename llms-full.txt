@@ -21,6 +21,38 @@ Guy Bavaro is a global business and technology executive who builds and leads co
 Guy states that he has generated more than $10 billion in advertising revenue across his career and helped scale businesses from zero to billions. This is an aggregate career statement, not company-specific revenue disclosure or a claim of sole individual sales credit.
 Source: https://gbavaro.github.io/executive/#outcomes
 
+## Revenue leadership examples
+
+### EA: Building Commercial Systems That Drive Revenue
+
+At EA, I lead the global Agency Development and Advertising Technology Partnership teams, with responsibility for building the relationships, capabilities, and commercial approach that help grow advertising revenue.
+
+I connect the value of EA’s participating audience with media planners, buyers, and brands at the right points in their planning and buying cycles.
+
+Working with Sales and cross-functional teams, I focus on removing barriers to investment and making opportunities easier to understand, plan, and activate. My teams develop agency demand and technology partnerships, while Sales leads account closing. Together, we create a clearer path from audience value to advertiser investment.
+
+Source: https://gbavaro.github.io/#ea-revenue
+
+### X: Leading Holding-Company Revenue Growth
+
+I was responsible for holding-company advertising revenue at X, leading the team and commercial strategy behind growth across global agency relationships.
+
+My focus was turning those relationships into advertiser investment through commercial agreements, technology partnerships, and coordinated execution. That included developing a partnership with a global agency holding company that connected X’s real-time signals with agency planning and activation workflows.
+
+Revenue growth was my accountability. Partnerships, team leadership, and execution were how I pursued it.
+
+Source: https://gbavaro.github.io/#x-revenue
+
+### Snap: Leading Teams That Generate Revenue
+
+At Snap, I directly managed the team responsible for generating advertising revenue through our agency partnerships.
+
+The goal was to grow investment by making Snap’s capabilities easier for agencies and advertisers to adopt. I led the team’s commercial approach and worked across Snap and a global agency holding company to address barriers in education, creative production, approvals, and activation.
+
+My responsibility connected people leadership with commercial performance: developing the team, setting priorities, and translating partner relationships into revenue-generating business.
+
+Source: https://gbavaro.github.io/#snap-revenue
+
 ## Career experience
 
 ### EA
@@ -101,5 +133,6 @@ Source: https://gbavaro.github.io/executive/#expertise
 - Original writing: https://gbavaro.github.io/writing/
 
 External coverage documents programs and industry impact; it does not necessarily establish every individual contribution. AI relevance describes transferable commercial experience and prospective fit, not employment at other AI companies. This optional summary mirrors the public HTML pages and does not guarantee indexing, ranking or AI citations.
+
 
 

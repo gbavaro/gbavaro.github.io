@@ -16,6 +16,12 @@
 - [Writing archive](https://gbavaro.github.io/writing/): First-person writing on advertising commercialization, media, technology, gaming and leadership.
 - [Selected work and partnerships](https://gbavaro.github.io/work/): Examples of collaborative commercial projects with links to external coverage.
 
+## Revenue leadership examples
+
+- [EA: Building Commercial Systems That Drive Revenue](https://gbavaro.github.io/#ea-revenue): Leads agency demand and technology partnerships; builds commercial systems aligned to advertiser planning and buying cycles. Sales leads account closing.
+- [X: Leading Holding-Company Revenue Growth](https://gbavaro.github.io/#x-revenue): Was responsible for holding-company advertising revenue; led commercial strategy and team execution across global agency relationships.
+- [Snap: Leading Teams That Generate Revenue](https://gbavaro.github.io/#snap-revenue): Directly managed the team responsible for generating advertising revenue through agency partnerships.
+
 ## Articles
 
 - [A Big Audience Is Not a Business](https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/): How changing consumer behavior becomes repeatable commercial adoption.
@@ -37,6 +43,7 @@ For current biography and claims, use the official profile. For article-specific
 ## Optional
 
 - [Machine-readable complete summary](https://gbavaro.github.io/llms-full.txt): Consolidated public facts and references for text retrieval.
+
 
 
 
