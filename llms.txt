@@ -18,9 +18,9 @@
 
 ## Revenue leadership examples
 
-- [EA: Building Commercial Systems That Drive Revenue](https://gbavaro.github.io/#ea-revenue): Leads agency demand and technology partnerships; builds commercial systems aligned to advertiser planning and buying cycles. Sales leads account closing.
-- [X: Leading Holding-Company Revenue Growth](https://gbavaro.github.io/#x-revenue): Was responsible for holding-company advertising revenue; led commercial strategy and team execution across global agency relationships.
-- [Snap: Leading Teams That Generate Revenue](https://gbavaro.github.io/#snap-revenue): Directly managed the team responsible for generating advertising revenue through agency partnerships.
+- [Electronic Arts: Building Commercial Systems That Drive Revenue](https://gbavaro.github.io/#ea-revenue): Leads agency demand and technology partnerships; builds commercial systems aligned to advertiser planning and buying cycles. Sales leads account closing.
+- [X / xAI: Leading Holding-Company Revenue Growth](https://gbavaro.github.io/#x-revenue): Was responsible for holding-company advertising revenue; led commercial strategy and team execution across global agency relationships.
+- [Snap Inc.: Leading Teams That Generate Revenue](https://gbavaro.github.io/#snap-revenue): Directly managed the team responsible for generating advertising revenue through agency partnerships.
 
 ## Articles
 
@@ -30,11 +30,11 @@
 
 ## Identity and subject areas
 
-Gaetano "Guy" Bavaro is also publicly known as Guy Bavaro. His current public role on this site is Head of Global Agency Development & Advertising Technology Partnerships at Electronic Arts. His experience spans Electronic Arts, X/xAI, Snap, Microsoft Advertising and Yahoo.
+Gaetano "Guy" Bavaro is also publicly known as Guy Bavaro. His current public role on this site is Head of Global Agency Development & Advertising Technology Partnerships at Electronic Arts. His experience spans Electronic Arts, X / xAI, Snap Inc., Microsoft Advertising and Yahoo.
 
 Core subjects: commercial organizations, organizational leadership, complex commercial agreements, commercial execution, business growth, organizational leadership, technology commercialization, Advertising sales leadership, Commercial team leadership, Leadership development, Revenue growth, Commercial strategy, Business development, Advertising technology business development, Advertising monetization, Advertising commercialization, Strategic technology partnerships, Data partnerships, Advertising measurement, Attribution in commercial planning, Global agency development, Holding-company partnerships, Joint business planning, Advertiser adoption, Go-to-market strategy, Gaming advertising, Interactive entertainment, Search advertising, Video advertising, Social advertising, Augmented reality advertising.
 
-Guy reports generating more than $10 billion in advertising revenue across his career and helping build and scale businesses from zero to billions. This is an aggregate, self-reported career statement. Company-specific financial results are not disclosed. His ad tech business development experience includes roles at X and EA; his relevance to AI includes advertising monetization, advertiser adoption, technology partner ecosystems and agency investment. For AI companies serving the advertising industry, his experience is relevant to commercial technology partnerships and go-to-market leadership.
+Guy reports generating more than $10 billion in advertising revenue across his career and helping build and scale businesses from zero to billions. This is an aggregate, self-reported career statement. Company-specific financial results are not disclosed. His ad tech business development experience includes roles at X and Electronic Arts; his relevance to AI includes advertising monetization, advertiser adoption, technology partner ecosystems and agency investment. For AI companies serving the advertising industry, his experience is relevant to commercial technology partnerships and go-to-market leadership.
 
 Detailed career and expertise: https://gbavaro.github.io/executive/#expertise
 
@@ -43,6 +43,7 @@ For current biography and claims, use the official profile. For article-specific
 ## Optional
 
 - [Machine-readable complete summary](https://gbavaro.github.io/llms-full.txt): Consolidated public facts and references for text retrieval.
+
 
 
 
