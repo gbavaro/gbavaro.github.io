@@ -14,7 +14,7 @@ Location: New York metropolitan area; global commercial scope
 
 ## Professional biography
 
-Guy Bavaro is a global advertising and technology executive who builds commercial teams and partner ecosystems that generate revenue. His experience spans EA, X/xAI, Snap, Microsoft and Yahoo across gaming, social platforms, search and digital media. He leads Global Agency Development and Advertising Technology Partnerships at Electronic Arts. His work combines advertising sales leadership, advertising technology business development, monetization, global agency partnerships, data and measurement.
+Guy Bavaro is a global business and technology executive who builds and scales businesses through commercial leadership, strategic partnerships and business development. His experience across EA, X/xAI, Snap, Microsoft and Yahoo spans gaming and interactive entertainment, social platforms, search, content and advertising technology. He leads Global Agency Development and Advertising Technology Partnerships at Electronic Arts.
 
 ## Aggregate career outcomes
 
@@ -23,25 +23,43 @@ Source: https://gbavaro.github.io/executive/#outcomes
 
 ## Career experience
 
-### Electronic Arts
+### EA | Gaming & Interactive Entertainment
 
-Head of Global Agency Development & Advertising Technology Partnerships. Lead global agency development and advertising technology partnerships, connecting gaming audiences with agency investment, data and measurement partners.
+Head of Global Agency Development & Advertising Technology Partnerships. Lead Global Agency Development and Advertising Technology Partnerships, building commercial opportunities across gaming, agencies, advertisers, and technology partners.
 
-### X / xAI
+### X/xAI | Social Platforms & an Evolving AI Ecosystem
 
-Head of Global Agency Development & Sales Partnerships. Led global agency development and sales partnerships at X, combining commercial team leadership, holding-company strategy and advertising technology business development. X/xAI describes the company context during this experience.
+Head of Global Agency Development & Sales Partnerships. Led global agency development and sales partnerships at X, bringing together commercial teams, holding-company strategy, and advertising technology business development.
 
-### Snap
+### Snap | Mobile, Social & Augmented Reality
 
-Global Agency Development. Led agency teams, executive holding-company relationships, commercial negotiations and global activation. Worked with Product, Engineering, Finance and Sales Operations to connect advertising capabilities with partner adoption and revenue growth.
+Global Agency Development. Led global agency partnerships and commercial programs supporting advertiser adoption of emerging platform capabilities.
 
-### Microsoft Advertising
+### Microsoft | Search, Video & Digital Advertising
 
-Advertising Sales & Agency Development Leadership. Led advertising sales and agency development teams across search, video and digital media. Built agency partnership programs, developed leaders and negotiated commercial partnerships.
+Advertising Sales & Agency Development Leadership. Led advertising sales and agency development teams, built partnership programs, and developed commercial relationships across a broad technology portfolio.
 
-### Yahoo
+### Yahoo | Search, Content & Digital Media
 
-Global Agency Development. Led global agency relationships, trading strategy and business development supporting agency adoption of Yahoo search and native advertising.
+Global Agency Development. Led global agency development, commercial negotiations, and business development supporting search and native advertising adoption.
+
+## Business leadership
+
+### Business growth and commercialization
+
+Translate new technology and changing consumer behavior into customer value, market adoption, and repeatable revenue.
+
+### Team and organizational leadership
+
+Build commercial teams, develop leaders, establish priorities, and create accountability for results.
+
+### Strategic partnerships and business development
+
+Structure and negotiate agreements that expand distribution, connect complementary capabilities, and open new markets.
+
+### Technology, data, and measurement
+
+Work across Product, Engineering, Sales, Finance, and Legal to connect technology partnerships with business objectives and measurable outcomes.
 
 ## Commercial expertise
 
@@ -71,7 +89,7 @@ I help turn new advertising capabilities into commercial propositions, partner p
 
 ### Commercial leadership for AI and emerging platforms
 
-For AI companies building advertising businesses, my experience applies to advertiser adoption, agency distribution, advertising monetization and commercial team leadership. For companies growing through partners, it applies to technology partnerships, joint go-to-market programs and commercial expansion.
+I’m interested in leading growth where technology is creating new markets. That includes AI, platforms, media, and other technology businesses seeking an executive who can connect strategy, teams, partnerships, and commercial execution.
 
 Source: https://gbavaro.github.io/executive/#expertise
 
@@ -81,3 +99,4 @@ Source: https://gbavaro.github.io/executive/#expertise
 - Original writing: https://gbavaro.github.io/writing/
 
 External coverage documents programs and industry impact; it does not necessarily establish every individual contribution. AI relevance describes transferable commercial experience and prospective fit, not employment at other AI companies. This optional summary mirrors the public HTML pages and does not guarantee indexing, ranking or AI citations.
+
