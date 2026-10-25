@@ -13,7 +13,7 @@
 
 - [Official profile](https://gbavaro.github.io/): Professional biography, current role, commercial approach and career highlights.
 - [Executive profile](https://gbavaro.github.io/executive/): Recruiter- and hiring-leader-facing commercial leadership scope, published outcomes and contact options.
-- [Writing archive](https://gbavaro.github.io/writing/): First-person writing on advertising commercialization, media, technology, gaming and leadership.
+- [Writing archive](https://gbavaro.github.io/writing/): First-person writing on business growth, technology adoption, advertising monetization and leadership.
 - [Selected work and partnerships](https://gbavaro.github.io/work/): Examples of collaborative commercial projects with links to external coverage.
 
 ## Revenue leadership examples
@@ -32,7 +32,7 @@
 
 Gaetano "Guy" Bavaro is also publicly known as Guy Bavaro. His current public role on this site is Head of Global Agency Development & Advertising Technology Partnerships at Electronic Arts. His experience spans Electronic Arts, X / xAI, Snap Inc., Microsoft Advertising and Yahoo.
 
-Core subjects: commercial organizations, organizational leadership, complex commercial agreements, commercial execution, business growth, organizational leadership, technology commercialization, Advertising sales leadership, Commercial team leadership, Leadership development, Revenue growth, Commercial strategy, Business development, Advertising technology business development, Advertising monetization, Advertising commercialization, Strategic technology partnerships, Data partnerships, Advertising measurement, Attribution in commercial planning, Global agency development, Holding-company partnerships, Joint business planning, Advertiser adoption, Go-to-market strategy, Gaming advertising, Interactive entertainment, Search advertising, Video advertising, Social advertising, Augmented reality advertising.
+Core subjects: business growth and commercialization; organizational and commercial team leadership; revenue accountability; strategic partnerships; business development; technology partnerships; advertising technology business development; advertising monetization; data partnerships; advertising measurement and attribution; global agency and holding-company partnerships; go-to-market strategy; search, social and video advertising; interactive entertainment and augmented reality.
 
 Guy reports generating more than $10 billion in advertising revenue across his career and helping build and scale businesses from zero to billions. This is an aggregate, self-reported career statement. Company-specific financial results are not disclosed. His ad tech business development experience includes roles at X and Electronic Arts; his relevance to AI includes advertising monetization, advertiser adoption, technology partner ecosystems and agency investment. For AI companies serving the advertising industry, his experience is relevant to commercial technology partnerships and go-to-market leadership.
 
@@ -43,6 +43,7 @@ For current biography and claims, use the official profile. For article-specific
 ## Optional
 
 - [Machine-readable complete summary](https://gbavaro.github.io/llms-full.txt): Consolidated public facts and references for text retrieval.
+
 
 
 

@@ -34,9 +34,27 @@
     else if (url.origin === window.location.origin && url.pathname.indexOf("/executive/") === 0) destination = "executive";
     else if (url.origin === window.location.origin && url.pathname.indexOf("/writing/") === 0) destination = "writing";
     else if (url.origin === window.location.origin && url.pathname.indexOf("/articles/") === 0) destination = "article";
+    else if (url.origin === window.location.origin && url.pathname.indexOf("/work/") === 0) destination = "work";
 
     if (destination) {
-      window.gtag("event", "portfolio_click", { destination: destination });
+      // Preserve the original event for historical continuity. Explicit event
+      // names make contact intent reportable without a custom dimension.
+      var params = { destination: destination, transport_type: "beacon" };
+      if (url.protocol === "https:" || url.protocol === "http:") {
+        params.link_url = url.origin + url.pathname;
+      }
+      window.gtag("event", "portfolio_click", params);
+      var events = {
+        email: "contact_email_click",
+        linkedin: "contact_linkedin_click",
+        executive: "view_executive_click",
+        work: "view_work_click",
+        writing: "view_writing_click",
+        article: "view_article_click",
+        substack: "view_substack_click"
+      };
+      window.gtag("event", events[destination], params);
     }
   }, { passive: true });
 })();
+

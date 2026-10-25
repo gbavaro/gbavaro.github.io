@@ -1,13 +1,13 @@
 # Search and AI discovery setup
 
-Last reviewed: 2026-10-14
+Last reviewed: 2026-10-25
 
-The public website is https://gbavaro.github.io/ and this repository currently contains seven canonical, indexable HTML pages. Keep the GitHub Pages URL as canonical unless a custom domain actually resolves, serves the complete site, and has working redirects. Do not change canonical links merely because a domain has been purchased.
+The public website is https://gbavaro.github.io/ and this repository currently contains eight canonical, indexable HTML pages. Keep the GitHub Pages URL as canonical unless a custom domain actually resolves, serves the complete site, and has working redirects. Do not change canonical links merely because a domain has been purchased.
 
 ## What is already in the repository
 
 - Root `robots.txt`: permits general crawlers and names the officially documented OpenAI, Anthropic and Perplexity bots; it references the sitemap. Some user-triggered retrieval agents do not necessarily follow robots.txt. xAI has not published a confirmed Grok crawler token; general crawlers are allowed by `User-agent: *`.
-- Root `sitemap.xml`: lists all seven canonical HTML URLs with latest technical update date.
+- Root `sitemap.xml`: lists all eight canonical HTML URLs with latest technical update date.
 - Root `llms.txt` and `llms-full.txt`: optional plain-text discovery aids that point back to the original published pages. `llms.txt` is a proposal, not an adopted universal indexing or ranking standard.
 - All pages: index/follow, canonical URLs, plain HTML links, descriptive titles, descriptions and JSON-LD structured data. The homepage contains linked WebSite, ProfilePage and Person objects. Other pages contain CollectionPage or Article plus BreadcrumbList objects. Article author links refer to the same homepage Person ID.
 - Homepage: contains an existing Google Search Console verification meta tag. This does not prove that a particular Google account has successfully verified the site.
@@ -44,3 +44,12 @@ The public website is https://gbavaro.github.io/ and this repository currently c
 - llms.txt proposal: https://llmstxt.org/
 
 The new executive page was added to the sitemap and AI-readable discovery files on 2026-10-14. Validate its live deployment, Google Rich Results status and Search Console indexing separately.
+
+
+## October 25 metadata cleanup and verification boundaries
+
+All eight pages have distinct titles and descriptions, canonical URLs, matching social titles/descriptions, and social preview images. The profile Person entity uses the same stable ID and a deduplicated expertise list on the homepage and executive page. The visible executive headline and approved revenue examples are preserved. Article publication dates are unchanged; metadata modification dates and sitemap lastmod reflect this update.
+
+The sitemap endpoint and page accessibility must be checked after deployment. Search Console performance is evidence of historical appearance, not a substitute for current URL Inspection. Missing query rows or page impressions do not prove a page is unindexed. A sitemap response with a null path and zero submitted URLs is inconclusive, not proof of a successful submission. The GSC Wizard connection previously returned a subscription-expired error; authoritative inspection remains blocked until it has an active plan/trial and a connected Search Console account. Reconnect it in app/connector settings after restoring access. No Bing Webmaster account is connected through the available analytics connector. No IndexNow key or submission is configured by this update.
+
+Measurement definitions and evaluation windows are maintained in ANALYTICS_SETUP.md. Private account metrics are excluded from this public repository.
