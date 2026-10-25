@@ -53,3 +53,7 @@ For current biography and claims, use the official profile. For article-specific
 
 
 
+
+## Public career context
+
+- [Career sources and attribution](https://gbavaro.github.io/executive/#career-sources): First-person Electronic Arts and X / xAI announcements, with historical title context and links to collaborative work. These sources do not independently verify aggregate career revenue.
