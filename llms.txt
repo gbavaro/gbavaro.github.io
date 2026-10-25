@@ -1,6 +1,6 @@
 # Guy Bavaro
 
-> Official public profile of Gaetano "Guy" Bavaro, a global business and technology executive focused on organizational leadership, revenue growth and strategic partnerships. This file is a navigation aid, not a guarantee of AI indexing or citation.
+> Guy Bavaro builds commercial operations and scales revenue across technology and media businesses by creating mutually beneficial business ecosystems. Across Electronic Arts, X / xAI, Snap Inc., Microsoft, and Yahoo, he builds teams, partnerships, and operating models that turn shared commercial interests into revenue and prepare organizations for what comes next.
 
 - Canonical website: https://gbavaro.github.io/
 - Full text site summary: https://gbavaro.github.io/llms-full.txt
@@ -18,15 +18,19 @@
 
 ## Revenue leadership examples
 
-- [Electronic Arts: Building Commercial Systems That Drive Revenue](https://gbavaro.github.io/#ea-revenue): Leads agency demand and technology partnerships; builds commercial systems aligned to advertiser planning and buying cycles. Sales leads account closing.
-- [X / xAI: Leading Holding-Company Revenue Growth](https://gbavaro.github.io/#x-revenue): Was responsible for holding-company advertising revenue; led commercial strategy and team execution across global agency relationships.
-- [Snap Inc.: Leading Teams That Generate Revenue](https://gbavaro.github.io/#snap-revenue): Directly managed the team responsible for generating advertising revenue through agency partnerships.
+- [Building the Commercial Foundation for Growth](https://gbavaro.github.io/#ea-revenue): At Electronic Arts, I lead Global Agency Development and Advertising Technology Partnerships, building the demand, relationships, and capabilities that support advertising revenue growth.
+- [Owning Revenue and Expanding Partner Value](https://gbavaro.github.io/#x-revenue): As Global Head, Agency Development and Advertising Partnerships at X / xAI, I was responsible for holding-company advertising revenue, leading the team and commercial strategy across global agency relationships.
+- [Leading Teams That Turn Partnerships Into Revenue](https://gbavaro.github.io/#snap-revenue): At Snap Inc., I directly managed the team responsible for generating advertising revenue through agency partnerships.
+
+Official X / xAI title: Global Head, Agency Development and Advertising Partnerships.
 
 ## Articles
 
 - [A Big Audience Is Not a Business](https://gbavaro.github.io/articles/a-big-audience-is-not-a-business/): How changing consumer behavior becomes repeatable commercial adoption.
 - [From Attention to Participation](https://gbavaro.github.io/articles/from-attention-to-participation/): Why participation and intent matter to advertising and media.
 - [Resilience in Action](https://gbavaro.github.io/articles/resilience-in-action/): Perspective on resilience, ownership and leadership.
+
+- [Resilience in Action: The Follow-Up](https://gbavaro.github.io/articles/resilience-in-action-follow-up/): Original follow-up on ownership, adjustment and competitive resilience.
 
 ## Identity and subject areas
 
