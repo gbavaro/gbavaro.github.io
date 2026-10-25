@@ -5,7 +5,7 @@ Canonical profile: https://gbavaro.github.io/
 Executive profile: https://gbavaro.github.io/executive/
 Name: Guy Bavaro
 Alternate names: Gaetano Bavaro; Gaetano "Guy" Bavaro
-Current role: Global Head, Agency Development and Ad Tech Partnerships, Electronic Arts
+Current role: Global Head, Agency Development & Advertising Technology Partnerships, Electronic Arts
 LinkedIn: https://www.linkedin.com/in/guybavaro
 GitHub: https://github.com/gbavaro
 Substack: https://gbavaro.substack.com/
@@ -51,7 +51,7 @@ Source: https://gbavaro.github.io/#snap-revenue
 
 ### Electronic Arts
 
-Global Head, Agency Development and Ad Tech Partnerships. Lead Global Agency Development and Advertising Technology Partnerships, building the agency and technology relationships that support commercial growth across Electronic Arts’ gaming and interactive entertainment portfolio.
+Global Head, Agency Development & Advertising Technology Partnerships. I lead global agency relationships and advertising technology partnerships that expand advertiser investment and grow Electronic Arts’ advertising business.
 
 ### X / xAI
 
