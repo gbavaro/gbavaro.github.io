@@ -39,7 +39,14 @@
     if (destination) {
       // Preserve the original event for historical continuity. Explicit event
       // names make contact intent reportable without a custom dimension.
-      var params = { destination: destination, transport_type: "beacon" };
+      var section = link.closest("section");
+      var params = {
+        destination: destination,
+        link_placement: section && section.id ? section.id : (link.closest("header") ? "navigation" : "page"),
+        page_path: window.location.pathname,
+        site_version: "2026-10-25-ecosystem-header",
+        transport_type: "beacon"
+      };
       if (url.protocol === "https:" || url.protocol === "http:") {
         params.link_url = url.origin + url.pathname;
       }
